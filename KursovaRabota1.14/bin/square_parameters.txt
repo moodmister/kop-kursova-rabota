@@ -1,0 +1,3 @@
+1000 1000
+Parameterized window with a parameterized square
+500 240 180 0
